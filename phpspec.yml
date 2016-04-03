@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: App2Siga
+        psr4_prefix: App2Siga
         src_path: app

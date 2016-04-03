@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace App2Siga\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

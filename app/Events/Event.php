@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace App2Siga\Events;
 
 abstract class Event
 {

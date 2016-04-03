@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Exceptions;
+namespace App2Siga\Exceptions;
 
 use Exception;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
